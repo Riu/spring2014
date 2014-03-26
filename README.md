@@ -1,4 +1,4 @@
-spring2014
+Spring2014
 ==========
 
 Color trends from Pantone - Spring 2014
