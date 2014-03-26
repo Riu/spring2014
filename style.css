@@ -1,0 +1,85 @@
+html{
+  height: 100%;
+  margin: 0px;
+}
+body{
+  background-color: #222;
+  margin: 0px;
+  padding: 0px;
+  font-family: Arial, Tahoma, sans-serif;
+}
+
+h1{
+  color: #999;
+  padding: 0px 5%;
+}
+
+h3{
+  padding: 4px 5%;
+  color: #444;
+}
+
+span.copyright{
+  color: #444;
+  font-size: 13px;
+  padding: 20px 5%;
+  float: left;
+}
+
+p{
+  height: 100px;
+  width: 40%;
+  text-decoration: none;
+  text-align: left;
+  color: #fff;
+  margin: 0px;
+  padding: 20px 5%;
+  float: left;
+  display: block;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+p span{
+  margi-left: 25px;
+}
+
+p.placid-blue{
+  background-color: #8DAED7;
+}
+
+p.violet-tulip{
+  background-color: #9B90C8;
+}
+
+p.hemlock{
+  background-color: #97C3A2;
+}
+
+p.sand{
+  background-color: #CDAA7F;
+}
+
+p.paloma{
+  background-color: #9E9D9C;
+}
+
+p.cayenne{
+  background-color: #DA4A52;
+}
+
+p.freesia{
+  background-color: #F6C324;
+}
+
+p.celosia-orange{
+  background-color: #f47d44;
+}
+
+p.radiant-orchid{
+  background-color: #B163A3;
+}
+
+p.dazzling-blue{
+  background-color: #2E4DA7;
+}
